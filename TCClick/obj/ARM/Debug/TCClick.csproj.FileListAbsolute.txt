@@ -1,0 +1,9 @@
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\Bin\ARM\Debug\TCClick.dll
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\Bin\ARM\Debug\TCClick.pdb
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\Bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\Bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\obj\ARM\Debug\TCClick.csprojResolveAssemblyReference.cache
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\obj\ARM\Debug\TCClick.dll
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\obj\ARM\Debug\TCClick.pdb
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\Bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\Bin\ARM\Debug\System.IO.Compression.xml

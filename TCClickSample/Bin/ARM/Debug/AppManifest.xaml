@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="TCClickSample" EntryPointType="TCClickSample.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="TCClickSample" Source="TCClickSample.dll" />
+    <AssemblyPart x:Name="System.IO.Compression" Source="System.IO.Compression.dll" />
+    <AssemblyPart x:Name="TCClick" Source="TCClick.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+  </Deployment.Parts>
+</Deployment>

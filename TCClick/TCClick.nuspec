@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.githubusercontent.com/starfalling/tcclick-wp/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/starfalling/tcclick-wp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>tcclick client sdk for windows phone</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright Truecolor.Inc 2014</copyright>
+    <tags>tcclick 友盟</tags>
+  </metadata>
+</package>

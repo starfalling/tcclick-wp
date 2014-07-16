@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCClick", "TCClick\TCClick.csproj", "{73F72FF2-F49F-4970-9F03-A679B586AC1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCClickSample", "TCClickSample\TCClickSample.csproj", "{21608A4A-349B-41A1-9916-DB2EC5B3A434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Debug|ARM.Build.0 = Debug|ARM
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Debug|x86.ActiveCfg = Debug|x86
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Debug|x86.Build.0 = Debug|x86
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Release|ARM.ActiveCfg = Release|ARM
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Release|ARM.Build.0 = Release|ARM
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Release|x86.ActiveCfg = Release|x86
+		{73F72FF2-F49F-4970-9F03-A679B586AC1E}.Release|x86.Build.0 = Release|x86
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|ARM.ActiveCfg = Debug|ARM
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|ARM.Build.0 = Debug|ARM
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|ARM.Deploy.0 = Debug|ARM
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|x86.ActiveCfg = Debug|x86
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|x86.Build.0 = Debug|x86
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Debug|x86.Deploy.0 = Debug|x86
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|ARM.ActiveCfg = Release|ARM
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|ARM.Build.0 = Release|ARM
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|ARM.Deploy.0 = Release|ARM
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|x86.ActiveCfg = Release|x86
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|x86.Build.0 = Release|x86
+		{21608A4A-349B-41A1-9916-DB2EC5B3A434}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

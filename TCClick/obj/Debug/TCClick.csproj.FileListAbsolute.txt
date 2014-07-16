@@ -1,0 +1,6 @@
+C:\Users\勇庆\Desktop\TCClick\TCClick\Bin\Debug\TCClick.dll
+C:\Users\勇庆\Desktop\TCClick\TCClick\Bin\Debug\TCClick.pdb
+C:\Users\勇庆\Desktop\TCClick\TCClick\obj\Debug\TCClick.dll
+C:\Users\勇庆\Desktop\TCClick\TCClick\obj\Debug\TCClick.pdb
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\obj\Debug\TCClick.dll
+C:\Users\勇庆\Desktop\千寻影视WindowsPhone\TCClick\TCClick\obj\Debug\TCClick.pdb
